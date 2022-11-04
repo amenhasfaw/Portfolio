@@ -1,5 +1,6 @@
 {
   "name": "simplefolio",
+  "homepage": "https://amenhasfaw.github.io/Portfolio",
   "version": "1.0.1",
   "private": "true",
   "description": "A clean, beautiful and responsive portfolio template for Developers!",
@@ -18,7 +19,6 @@
   "bugs": {
     "url": "https://github.com/cobidev/simplefolio/issues"
   },
-  "homepage": "https://github.com/cobidev/simplefolio#readme",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.0.1",
     "parcel": "^2.0.1",
